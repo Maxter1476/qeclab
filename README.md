@@ -65,7 +65,3 @@ ruff check .
 
 Dennis, Kitaev, Landahl & Preskill, *Topological quantum memory*,
 J. Math. Phys. 43, 4452 (2002).
-
-## License
-
-MIT
