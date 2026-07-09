@@ -1,5 +1,6 @@
 # qeclab
 
+![CI](https://github.com/Maxter1476/qeclab/actions/workflows/ci.yml/badge.svg)
 **Toric-code quantum error correction with a minimum-weight perfect-matching
 decoder — including the threshold experiment that makes surface codes the
 leading fault-tolerance architecture.**
